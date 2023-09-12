@@ -1,0 +1,20 @@
+{
+  "name": "Manta-name-service",
+  "version": "1.0.0",
+  "description": ".manta Name Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manta-domain/manta-Name-Service.git"
+  },
+  "author": "Manta Domain Deployer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manta-domain/manta-name-service/issues"
+  },
+  "homepage": "https://github.com/manta-domain/manta-name-service#readme",
+  "keywords": []
+}
